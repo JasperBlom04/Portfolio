@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css?family=Damion');
+
+
+
+
+
+nav {
+    width: 130%;
+    height: 100px;
+    background-color: black
+}
+
+
+
+p {
+    font-size: 24;
+    font-family: 'Damion', cursive;
+    color: white;
+    text-align: center
+}
+
+ul {}
+
+ul {}
+
+ul li {
+    list-style: none;
+    display: inline-block;
+    float: center;
+    line-height: 100px;
+}
+
+ul li a {
+    text-decoration: none;
+    font-size: 30px;
+    font-family: 'Damion', cursive;
+    color: white;
+    padding: 0 20px;
+    display: block;
+
+}
+
+ul li a:hover {
+    color: darkblue;
+}
+
+
+h1 {
+    font-family: 'Damion', cursive;
+    font-size: 120pt;
+    color: white;
+    float: right;
+    margin-top: -120
+}
+
+* {
+    text-align:
+}
+
+
+img {
+    text-align: center !important;
+    margin-left: 450;
+    border-radius: 50%
+}
+
+h2 {
+    margin-left: 575;
+    font-family: 'Damion', cursive;
+    font-size: 72;
+    color: white;
+
+}
+
+.mapouter {
+    margin-left: 250
+}
+
+
+
+.col1 {
+    border-style: solid;
+    width: 350;
+    height: 500;
+    color: white;
+    margin-left: 950;
+}
+
+.col2 {
+    border-style: solid;
+    width: 350;
+    height: 500;
+    color: white;
+    margin-left: 550;
+    margin-top: -505;
+}
+
+.col3 {
+    border-style: solid;
+    width: 350;
+    height: 500;
+    color: white;
+    margin-left: 150;
+    margin-top: -505;
+}
